@@ -2,6 +2,8 @@
 
 I cloned this repository: https://github.com/hadoop-sandbox/hadoop-sandbox.git
 
+I modified the mapper from https://github.com/cd-public/merrer/
+
 I used the following mapred command:
 ```
 hdfs dfs -rm -r /user/sandbox/words
